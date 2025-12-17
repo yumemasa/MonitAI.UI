@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IAF/j4Vv/5E=",
+  "dgSpecHash": "OU7uaG36EA8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\it222104\\Downloads\\layoutsample\\layoutsample\\layoutsample.csproj",
+  "projectFilePath": "C:\\Users\\it222104\\source\\repos\\layoutsample\\layoutsample\\layoutsample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\it222104\\.nuget\\packages\\wpf-ui\\4.1.0\\wpf-ui.4.1.0.nupkg.sha512",
     "C:\\Users\\it222104\\.nuget\\packages\\wpf-ui.abstractions\\4.1.0\\wpf-ui.abstractions.4.1.0.nupkg.sha512"

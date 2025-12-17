@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\it222104\\Downloads\\layoutsample\\layoutsample\\layoutsample.csproj": {}
+    "C:\\Users\\it222104\\source\\repos\\layoutsample\\layoutsample\\layoutsample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\it222104\\Downloads\\layoutsample\\layoutsample\\layoutsample.csproj": {
+    "C:\\Users\\it222104\\source\\repos\\layoutsample\\layoutsample\\layoutsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\it222104\\Downloads\\layoutsample\\layoutsample\\layoutsample.csproj",
+        "projectUniqueName": "C:\\Users\\it222104\\source\\repos\\layoutsample\\layoutsample\\layoutsample.csproj",
         "projectName": "layoutsample",
-        "projectPath": "C:\\Users\\it222104\\Downloads\\layoutsample\\layoutsample\\layoutsample.csproj",
+        "projectPath": "C:\\Users\\it222104\\source\\repos\\layoutsample\\layoutsample\\layoutsample.csproj",
         "packagesPath": "C:\\Users\\it222104\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\it222104\\Downloads\\layoutsample\\layoutsample\\obj\\",
+        "outputPath": "C:\\Users\\it222104\\source\\repos\\layoutsample\\layoutsample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
